@@ -17,4 +17,5 @@ main pages
 File main.dart adalah entry point dari aplikasi Flutter. Fungsi main() menjalankan aplikasi menggunakan runApp(). Aplikasi dibungkus dalam widget utama bernama MyApp, yang merupakan StatelessWidget. Di dalam MyApp, MaterialApp digunakan untuk mengatur tema aplikasi dan menentukan halaman pertama saat aplikasi dibuka, yaitu LoginPage(). MaterialApp juga mengatur warna default melalui ThemeData. File ini berfungsi sebagai pengatur utama struktur aplikasi sebelum berpindah ke halaman-halaman lain.
 
 Video Aplikasi
+
 ![Teks alternatif](tugas_7.gif)
